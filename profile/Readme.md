@@ -25,8 +25,8 @@ Visit [nextgen-softwares.com](http://nextgen-softwares.com) to see our comprehen
 
 Embark on a transformative journey with innovative and intelligent tech solutions. Connect with us to elevate your projects:
 
-- **[LinkedIn](#)**
-- **[Twitter](#)**
+- **[LinkedIn](https://www.linkedin.com/company/nextgensoftwares)**
+- **[Twitter/X](https://twitter.com/NXTGenSoftwares)**
 - **[Email](mailto:hello@nextgensoftwares.com)**
 
 With **NextGen Softwares**, innovate today and lead tomorrow. Let's build something amazing together.
